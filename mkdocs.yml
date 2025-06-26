@@ -8,6 +8,10 @@ theme:
 
 nav:
   - 首页: index.md
+  - 宏观基本面:
+    - 中美食利概况: macro_basics/china_us_rentier.md
+    - 中美居民收入概况: macro_basics/china_us_income.md
+  - Quantitative:qe/index.md
 
 markdown_extensions:
   - attr_list
